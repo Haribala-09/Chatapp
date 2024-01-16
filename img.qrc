@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>4k-space.jpg</file>
+    </qresource>
+</RCC>
