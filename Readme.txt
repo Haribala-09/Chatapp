@@ -1,0 +1,1 @@
+This is a qt chat app that is just runs locally just to understand the networking process and a simple ui with qt. It is simple to do just compile and execute it works fine well.Start the server first and then the client
